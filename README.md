@@ -1,7 +1,7 @@
 
 
 # 💬 Chatty
-![GitHub stars](https://img.shields.io/github/stars/your-username/chatty?style=social)
+![https://github.com/piyushh2304/chatty.git](https://img.shields.io/github/stars/your-username/chatty?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/your-username/chatty?style=social)
 ![License](https://img.shields.io/github/license/your-username/chatty)
 ![Issues](https://img.shields.io/github/issues/your-username/chatty)
