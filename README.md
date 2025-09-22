@@ -1,11 +1,6 @@
 
 
 # 💬 Chatty
-![Github_stars](https://img.shields.io/github/stars/piyushh2304/chatty.git)
-![GitHub forks](https://img.shields.io/github/forks/your-username/chatty?style=social)
-![License](https://img.shields.io/github/license/your-username/chatty)
-![Issues](https://img.shields.io/github/issues/your-username/chatty)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
 A **real-time chat application** built with the **MERN stack** (MongoDB, Express, React, Node.js) and **WebSockets (Socket.IO)** for seamless two-way communication.
 
