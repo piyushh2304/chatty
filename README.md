@@ -1,11 +1,6 @@
-Perfect 👍 Adding **shields.io badges** will give your README a more professional GitHub look.
-Here’s the updated version with a **badge section** at the top:
 
----
 
 # 💬 Chatty
-
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/chatty?color=blue)
 ![GitHub stars](https://img.shields.io/github/stars/your-username/chatty?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/your-username/chatty?style=social)
 ![License](https://img.shields.io/github/license/your-username/chatty)
@@ -17,6 +12,10 @@ A **real-time chat application** built with the **MERN stack** (MongoDB, Express
 🚀 Chatty lets users connect instantly, exchange messages in real-time, and experience a smooth chatting interface similar to modern messaging apps.
 
 ---
+
+
+WEBSITE LINK : https://fullstack-chat-app-5f9u.onrender.com/
+
 
 ## ✨ Features
 
@@ -140,7 +139,3 @@ Contributions are welcome!
 **Piyush Rajput**
 
 ---
-
-
-
-WEBSITE LINK : https://fullstack-chat-app-5f9u.onrender.com/
